@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@web3-react/fortmatic-connector": "^6.1.6",
+    "@web3-react/portis-connector": "^6.1.9",
+    "@web3-react/walletconnect-connector": "^6.2.0",
+    "@web3-react/walletlink-connector": "^6.2.0",
+    "web3": "^0.20.2",
+    "web3-react": "^5.0.5"
+  }
+}
